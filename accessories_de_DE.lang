@@ -218,7 +218,7 @@ staxel.accessories.devavatars.teagadd.TeagaddTrousers.description=
 staxel.accessories.devavatars.teagadd.TeagaddTrousers.name=Teagadd-Hose
 
 //[Reference] 'Colourful Kawaii'
-staxel.accessories.eyes.colourfulKawaii=Farbenfrohes Kawaii
+staxel.accessories.eyes.colourfulKawaii=Farbenfroh Kawaii
 //[Reference] 'Dark'
 staxel.accessories.eyes.dark=Dunkel
 //[Reference] 'Dark with Eyelashes'
@@ -226,9 +226,9 @@ staxel.accessories.eyes.darkEyelashes=Dunkel mit Wimpern
 //[Reference] 'Dark Kawaii'
 staxel.accessories.eyes.darkKawaii=Dunkel Kawaii
 //[Reference] 'Gradient'
-staxel.accessories.eyes.gradient=Neigung
+staxel.accessories.eyes.gradient=Farbverlauf
 //[Reference] 'Gradient with Eyelashes'
-staxel.accessories.eyes.gradientEyelashes=Neigung mit Wimpern
+staxel.accessories.eyes.gradientEyelashes=Farbverlauf mit Wimpern
 //[Reference] 'Grumpy'
 staxel.accessories.eyes.grumpy=Mürrisch
 //[Reference] 'Kawaii'
@@ -258,27 +258,27 @@ staxel.accessories.eyes.smallEyelashes=Klein mit Wimpern
 //[Reference] 'Squint'
 staxel.accessories.eyes.squint=Schielend
 //[Reference] 'Thick with Eyelashes'
-staxel.accessories.eyes.thickEyelashes=Schielend mit Wimpern
+staxel.accessories.eyes.thickEyelashes=Üppig mit Wimpern
 //[Reference] 'Wise'
 staxel.accessories.eyes.wise=Weise
 staxel.accessories.fullBodyOutfits.AnimalMerchant.description=
 //[Reference] 'Animal Merchant Outfit'
-staxel.accessories.fullBodyOutfits.AnimalMerchant.name=Tierhändler Kleidung
+staxel.accessories.fullBodyOutfits.AnimalMerchant.name=Tierhändler-Outfit
 staxel.accessories.fullBodyOutfits.BuilderMerchant.description=
 //[Reference] 'Builder Merchant Outfit'
-staxel.accessories.fullBodyOutfits.BuilderMerchant.name=Baumeisterhändler Kleidung
+staxel.accessories.fullBodyOutfits.BuilderMerchant.name=Baustoffhändler-Outfit
 staxel.accessories.fullBodyOutfits.ClothingMerchant.description=
 //[Reference] 'Clothing Merchant Outfit'
-staxel.accessories.fullBodyOutfits.ClothingMerchant.name=Kleidungshändler Kleidung
+staxel.accessories.fullBodyOutfits.ClothingMerchant.name=Kleidungshändler-Outfit
 staxel.accessories.fullBodyOutfits.FlowerMerchant.description=
 //[Reference] 'Flower Merchant Outfit'
-staxel.accessories.fullBodyOutfits.FlowerMerchant.name=Blumenhändler Kleidung
+staxel.accessories.fullBodyOutfits.FlowerMerchant.name=Blumenhändler-Outfit
 staxel.accessories.fullBodyOutfits.MagicMerchant.description=
 //[Reference] 'Magic Merchant Outfit'
-staxel.accessories.fullBodyOutfits.MagicMerchant.name=Magiehändler Kleidung
+staxel.accessories.fullBodyOutfits.MagicMerchant.name=Magiehändler-Outfit
 staxel.accessories.fullBodyOutfits.Merchant.description=
 //[Reference] 'Merchant Outfit'
-staxel.accessories.fullBodyOutfits.Merchant.name=Händler Kleidung
+staxel.accessories.fullBodyOutfits.Merchant.name=Händler-Outfit
 staxel.accessories.fullBodyOutfits.MerchantCool.description=
 //TODO Translate [Reference] 'Cool Merchant Outfit'
 staxel.accessories.fullBodyOutfits.MerchantCool.name=
@@ -300,11 +300,11 @@ staxel.accessories.hairstyles.female.long.floppypigtails.FloppyPigtails=Doppelz�
 //[Reference] 'Neko'
 staxel.accessories.hairstyles.female.medium.catGirl=Katze
 //[Reference] 'Normal Short'
-staxel.accessories.hairstyles.male.short.Male_NormalShort=Normal kurz
+staxel.accessories.hairstyles.male.short.Male_NormalShort=Normal Kurz
 //[Reference] 'Short Emo'
 staxel.accessories.hairstyles.male.short.ShortEmoFringe=Kurz Emo
 //[Reference] 'Classic Mecha'
-staxel.accessories.helmets.mecha.Mecha_Classic=Klassischer Mecha
+staxel.accessories.helmets.mecha.Mecha_Classic=Klassische Mecha
 //TODO Translate [Reference] 'EG4D'
 staxel.accessories.helmets.mecha.Mecha_EG4D=
 //TODO Translate [Reference] 'L0V3'
@@ -312,12 +312,12 @@ staxel.accessories.helmets.mecha.Mecha_L0V3=
 //TODO Translate [Reference] 'P'
 staxel.accessories.helmets.mecha.Mecha_P=
 //[Reference] 'Mecha Red'
-staxel.accessories.helmets.mecha.Mecha_Red=Roter Mecha
+staxel.accessories.helmets.mecha.Mecha_Red=Rote Mecha
 //[Reference] 'Mecha Yellow'
-staxel.accessories.helmets.mecha.Mecha_XYellow=Gelber Mecha
+staxel.accessories.helmets.mecha.Mecha_XYellow=Gelbe Mecha
 staxel.accessories.princessdresses.ruffly.RufflyDress.description=
 //[Reference] 'Ruffly Dress'
-staxel.accessories.princessdresses.ruffly.RufflyDress.name=Rüschen-Kleid
+staxel.accessories.princessdresses.ruffly.RufflyDress.name=Rüschenkleid
 staxel.accessories.shirts.catshirts.CatShirt.description=
 //[Reference] 'Cat Shirt'
 staxel.accessories.shirts.catshirts.CatShirt.name=Katzen-Shirt
@@ -347,7 +347,7 @@ staxel.accessories.shirts.splatshirts.SplatShirt.description=
 staxel.accessories.shirts.splatshirts.SplatShirt.name=
 staxel.accessories.shoes.blackneon.BlackNeonTrainers.description=
 //[Reference] 'Neon Trainers'
-staxel.accessories.shoes.blackneon.BlackNeonTrainers.name=Neon Turnschuhe
+staxel.accessories.shoes.blackneon.BlackNeonTrainers.name=Neon-Turnschuhe
 staxel.accessories.shoes.colouredtrainers.ColouredTrainers.description=
 //[Reference] 'Coloured Trainers'
 staxel.accessories.shoes.colouredtrainers.ColouredTrainers.name=Farbige Turnschuhe
